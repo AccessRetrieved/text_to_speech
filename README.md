@@ -5,8 +5,8 @@ This is a project build in python.
 ## Installation
 
 Packages needed:
--itertookls
--gtts
--os
+- itertookls
+- gtts
+- os
 
-'pip install gtts'
+ `pip install gtts
