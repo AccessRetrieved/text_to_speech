@@ -1,2 +1,12 @@
-# text_to_speech
-This is a repository on python text to speech
+# Python text to speech
+
+This is a project build in python.
+
+##Installation
+
+Packages needed:
+-itertookls
+-gtts
+-os
+
+'pip install gtts'
