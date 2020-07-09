@@ -15,7 +15,7 @@ Packages needed:
 
 ### Usinng input
 
-'''
+```
 import itertools
 from gtts import gTTS 
 import os 
@@ -36,4 +36,4 @@ sleep(5)
 print('file played and removed')
 sleep(5)
 os.remove('output.mp3')
-'''
+```
