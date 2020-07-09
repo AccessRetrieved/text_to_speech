@@ -11,9 +11,9 @@ Packages needed:
 
 `pip install gtts`
 
-## Inputs
+## Types of inputs
 
-### Usinng input
+### Using input
 
 ```
 import itertools
